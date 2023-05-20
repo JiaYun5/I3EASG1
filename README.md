@@ -22,11 +22,11 @@ application
       <ol>
   <ul>
 <br>
-<h3> Limitations/Bugs <h3>
+<h4> Limitations/Bugs <h4>
   <p> The door sometimes keeps on swing after you have pushed it opened <p>
 <br>
-<h3> platforms/hardware/desired settings required to run the
-application <h3>
+<h4> platforms/hardware/desired settings required to run the
+application <h4>
   <ul>
     <li> Unity
   <ul>
