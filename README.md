@@ -8,6 +8,7 @@ application
 • Include the answers on how to solve your game puzzles if any
 
 <h3> Instructions <h3>
+  <br>
   <ul> 
     <li> Movement uses the WASD keys 
     <li> Use the mouse to turn and look left and right 
@@ -20,10 +21,10 @@ application
         <li> Shoes 
       <ol>
   <ul>
-<b>
+<br>
 <h3> Limitations/Bugs <h3>
   <p> The door sometimes keeps on swing after you have pushed it opened <p>
-<b>
+<br>
 <h3> platforms/hardware/desired settings required to run the
 application <h3>
   <ul>
