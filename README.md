@@ -7,7 +7,7 @@ application
 • Indicate references and credits to the models/textures/materials used
 • Include the answers on how to solve your game puzzles if any
 
-<h5>Instructions<h5>
+<h3> Instructions <h3>
   <ul> 
     <li> Movement uses the WASD keys 
     <li> Use the mouse to turn and look left and right 
@@ -19,4 +19,13 @@ application
         <li> Keys 
         <li> Shoes 
       <ol>
+  <ul>
+<b>
+<h3> Limitations/Bugs <h3>
+  <p> The door sometimes keeps on swing after you have pushed it opened <p>
+<b>
+<h3> platforms/hardware/desired settings required to run the
+application <h3>
+  <ul>
+    <li> Unity
   <ul>
