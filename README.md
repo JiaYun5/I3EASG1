@@ -1,12 +1,13 @@
 # I3E ASG1
 Readme should include detailed instructions (key controls, game hack,
-answer key, etc) on how to use and run your application
+answer key, etc) on how to use and run your application \n
 • Indicate the platforms/hardware/desired settings required to run your
-application
-• Indicate the limitations or bugs in the application
-• Indicate references and credits to the models/textures/materials used
-• Include the answers on how to solve your game puzzles if any
-
+application \n
+• Indicate the limitations or bugs in the application \n
+• Indicate references and credits to the models/textures/materials used \n
+• Include the answers on how to solve your game puzzles if any \n
+<br>
+<br>
 <h3> Instructions <h3>
   <br>
   <ul> 
