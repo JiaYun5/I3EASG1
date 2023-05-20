@@ -30,3 +30,6 @@ application <h4>
   <ul>
     <li> Unity
   <ul>
+<br>
+<h4> References and Credits <h4>
+  <p> All models were created by me with references from items in real life <p>
