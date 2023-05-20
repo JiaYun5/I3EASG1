@@ -9,14 +9,14 @@ application
 
 <h5>Instructions<h5>
   <ul> 
-    <li> Movement uses the WASD keys <li>
-    <li> Use the mouse to turn and look left and right <li>
-    <li> Objective: Find the 5 items needed before heading for school <li>
+    <li> Movement uses the WASD keys 
+    <li> Use the mouse to turn and look left and right 
+    <li> Objective: Find the 5 items needed before heading for school 
       <ol> 
-        <li> Backpack <li>
-        <li> Laptop <li>
-        <li> Lunchbox <li>
-        <li> Keys <li>
-        <li> Shoes <li>
+        <li> Backpack 
+        <li> Laptop 
+        <li> Lunchbox 
+        <li> Keys 
+        <li> Shoes 
       <ol>
   <ul>
